@@ -8,6 +8,6 @@ By default, and for testing purposes, the project is currently set to the localh
 
 Once the Client enters the Chat (assuming the Server is already running), the server requests for a username, which will be used to inform the remaining participants that a new User has joined and to flag the messages sent by the respective user throughout the chat.
 
-The code is also prepared to close the respective socket once the user enters the message "/quit" which is subsequently inform the remaining participants that the user has left the conversation.
+The code is also prepared to close the respective socket once the user enters the message "/quit" which will subsequently inform the remaining participants that the user has left the conversation.
 
 The program is fully functional, however improvements might be performed as I learn and perfect my own programming skills.
